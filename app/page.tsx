@@ -30,7 +30,7 @@ export default function Home() {
           </div>
         </div>
         <div className="about__img-wrapper">
-          <img className='about__img' src="/about.jpg" alt="about picture" />
+          <img loading='lazy' className='about__img' src="/about.jpg" alt="about picture" />
         </div>
       </section>
 
@@ -69,28 +69,28 @@ export default function Home() {
         </div>
         <div className="featured__img-container">
           <div className='featured__img-wrapper'>
-            <img src="/slayingthedragon.png" alt="picture" />
+            <img loading='lazy' src="/slayingthedragon.png" alt="picture" />
           </div>
           <div className='featured__img-wrapper'>
-            <img src="/slayingthedragon.png" alt="picture" />
+            <img loading='lazy' src="/slayingthedragon.png" alt="picture" />
           </div>
           <div className='featured__img-wrapper'>
-            <img src="/slayingthedragon.png" alt="picture" />
+            <img loading='lazy' src="/slayingthedragon.png" alt="picture" />
           </div>
           <div className='featured__img-wrapper'>
-            <img src="/slayingthedragon.png" alt="picture" />
+            <img loading='lazy' src="/slayingthedragon.png" alt="picture" />
           </div>
           <div className='featured__img-wrapper'>
-            <img src="/slayingthedragon.png" alt="picture" />
+            <img loading='lazy' src="/slayingthedragon.png" alt="picture" />
           </div>
           <div className='featured__img-wrapper'>
-            <img src="/slayingthedragon.png" alt="picture" />
+            <img loading='lazy' src="/slayingthedragon.png" alt="picture" />
           </div>
           <div className='featured__img-wrapper'>
-            <img src="/slayingthedragon.png" alt="picture" />
+            <img loading='lazy' src="/slayingthedragon.png" alt="picture" />
           </div>
           <div className='featured__img-wrapper'>
-            <img src="/slayingthedragon.png" alt="picture" />
+            <img loading='lazy' src="/slayingthedragon.png" alt="picture" />
           </div>
         </div>
       </section>
@@ -104,7 +104,7 @@ export default function Home() {
           {/* project 1 */}
           <h3 className='work__project-title'>Wax Motif</h3>
           <div className="work__img-wrapper work__image1">
-            <img src="/waxmoney.png" alt="Wax Motif website" />
+            <img loading='lazy' src="/waxmoney.png" alt="Wax Motif website" />
           </div>
           <div className="work__project work__content1">
             <h3 className='work__project-subtitle'>Wax Motif</h3>
@@ -118,7 +118,7 @@ export default function Home() {
           {/* project 2 */}
           <h3 className='work__project-title'>Draze Force</h3>
           <div className="work__img-wrapper work__image2">
-            <img src="/waxmoney.png" alt="Draze Force website" />
+            <img loading='lazy' src="/waxmoney.png" alt="Draze Force website" />
           </div>
           <div className="work__project work__content2">
             <h3 className='work__project-subtitle'>Draze Force</h3>
@@ -132,7 +132,7 @@ export default function Home() {
           {/* project 3 */}
           <h3 className='work__project-title'>Artren</h3>
           <div className="work__img-wrapper work__image3">
-            <img src="/waxmoney.png" alt="Artren website" />
+            <img loading='lazy' src="/waxmoney.png" alt="Artren website" />
           </div>
           <div className="work__project work__content3">
             <h3 className='work__project-subtitle'>Artren</h3>
@@ -146,7 +146,7 @@ export default function Home() {
           {/* project 4 */}
           <h3 className='work__project-title'>Project 4</h3>
           <div className="work__img-wrapper work__image4">
-            <img src="/waxmoney.png" alt="Wax Motif website" />
+            <img loading='lazy' src="/waxmoney.png" alt="Wax Motif website" />
           </div>
           <div className="work__project work__content4">
             <h3 className='work__project-subtitle'>Project 4</h3>
@@ -160,7 +160,7 @@ export default function Home() {
           {/* project 5 */}
           <h3 className='work__project-title'>Project 5</h3>
           <div className="work__img-wrapper work__image5">
-            <img src="/waxmoney.png" alt="Draze Force website" />
+            <img loading='lazy' src="/waxmoney.png" alt="Draze Force website" />
           </div>
           <div className="work__project work__content5">
             <h3 className='work__project-subtitle'>Project 5</h3>
@@ -174,7 +174,7 @@ export default function Home() {
           {/* project 6 */}
           <h3 className='work__project-title'>Project 6</h3>
           <div className="work__img-wrapper work__image6">
-            <img src="/waxmoney.png" alt="Artren website" />
+            <img loading='lazy' src="/waxmoney.png" alt="Artren website" />
           </div>
           <div className="work__project work__content6">
             <h3 className='work__project-subtitle'>Project 6</h3>
